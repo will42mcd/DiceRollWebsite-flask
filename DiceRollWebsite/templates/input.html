@@ -1,0 +1,15 @@
+{% extends 'main.html' %}
+
+{% block body %} 
+<form method='POST' action="dice_roll">
+
+    <div id="input-box">
+        <input name="number of dice" type="number" width="60">
+    </div>
+    
+    <div id="roll-button">
+        <input value="Let 'em roll!" type="SUBMIT">
+    </div>
+
+</form>
+{% endblock %}

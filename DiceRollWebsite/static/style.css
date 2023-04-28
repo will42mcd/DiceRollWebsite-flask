@@ -1,0 +1,31 @@
+body {
+    background: rgb(226, 224, 224);
+    margin-top: 50px;
+    margin-left: 100px;
+    }
+   
+h1 {
+font-family: Verdana, Geneva, sans-serif;
+font-size: 2.5rem;
+color: rgb(32, 32, 32);
+}
+
+h2 {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 2rem;
+    color: rgb(40, 40, 40);
+    }
+   
+p {
+font-family: Georgia, serif;
+font-size: 1.2em;
+color: rgb(66, 66, 66);
+}
+
+.input-box{
+    padding: 5px
+}
+
+.roll-button{
+    padding: 5px
+}

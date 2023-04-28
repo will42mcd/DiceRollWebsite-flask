@@ -1,0 +1,5 @@
+User IP: 127.0.0.1
+Browser Information: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+Number of Dice: 7
+Dice Results: [5, 4, 3, 2, 4, 5, 1]
+Sum of Dice: 24
